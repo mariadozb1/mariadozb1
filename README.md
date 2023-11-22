@@ -1,4 +1,7 @@
-### Hi there 👋
+estudante do colégio érico veríssimo 
+ensino médio
+kpoper
+futura pediatra
 
 <!--
 **mariadozb1/mariadozb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
