@@ -1,6 +1,4 @@
-estudante do colégio érico veríssimo 
-ensino médio
-kpoper
+estudante do colégio érico veríssimo
 futura pediatra
 
 <!--
